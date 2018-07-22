@@ -3,4 +3,4 @@ server:
     servlet:
       context-path: /
 name: test
-age: 10
+age: 20
